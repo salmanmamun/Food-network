@@ -1,0 +1,83 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin:0px;
+    margin left:100px;
+}
+h1{
+    font-size:40px;
+    padding: 3%;
+}
+.color{
+    color: orange;
+
+   
+}
+.div-1{
+    display: flex;
+    margin-bottom:100px;
+    padding-bottom: 10%;
+    
+    
+    
+}
+.div-2{
+    display: flex;
+     width:40%;
+     margin-left:1%;
+     margin-right: 3%;
+     
+     
+
+
+}
+.half-width{
+ width: 50%;
+ padding-left: 3%;
+ 
+}
+.link-button{
+text-decoration: none;
+background-image: linear-gradient(orange,red);
+background-color:orange;
+color: wheat;
+font-size: 25px;
+border-radius: 10px;
+}
+.style-1{
+background-image: url(images/Frame\ 56.jpg);
+background-repeat: no-repeat;
+padding-bottom: 3%;
+
+
+}
+.style-2{
+    background-image: url(images/Frame\ 57.jpg);
+    padding: 3%;
+}
+.food-item{
+    width:600px;
+    height:400px;
+    margin-left:5%;
+    margin-right:20%;
+    margin border-bottom:5%;
+    border-radius:10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px 10px gray;
+    padding:2px;
+}
+.border-radius{
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.text{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height:170px;
+    border: none;
+}
